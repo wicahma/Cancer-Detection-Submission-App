@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis </string>
+
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="cancer_subtitle">Deteksi cancer melalui gambar sekarang, lebih akurat dan praktis!</string>
+    <string name="cancer_title">Cancer Scanner</string>
+    <string name="theme_text">Light Mode</string>
+    <string name="cd_delete_button">Tombol Hapus</string>
+    <string name="header_subtitle">Cek riwayat scan kamu disini!</string>
+    <string name="header_title">Scanner History</string>
+    <string name="cd_bookmark_icon">Bookmark Icon</string>
+    <string name="cd_preview_image_pre_analyzed">Preview image selected pre analyzed</string>
+    <string name="cd_image_result_after">Image result after scan</string>
+    <string name="loading">Loading...</string>
+    <string name="loading_2">Loading...</string>
+    <string name="artikel_title">Artikel Terkait</string>
+    <string name="article_image_card">Image Article Display for card</string>
+    <string name="history_image_card">image for history card view</string>
+
+</resources>
